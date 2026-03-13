@@ -1,0 +1,23 @@
+[
+  {
+    "mission_day": 137,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T10:34:01.298302",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T10:34:01.298302",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_001",
+    "timestamp": "2026-03-13T10:34:01.298302",
+    "effectiveness": "PENDING"
+  }
+]
