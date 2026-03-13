@@ -1,0 +1,49 @@
+{
+  "mission_duration_days": 180,
+  "crew_size": 3,
+  "baseline_days": 14,
+  "tqs_window": {
+    "start": 120,
+    "peak": 135,
+    "end": 150
+  },
+  "astronauts": [
+    "GAGANYAAN_01",
+    "GAGANYAAN_02",
+    "GAGANYAAN_03"
+  ],
+  "total_records": 540,
+  "features": [
+    "astronaut_id",
+    "astronaut_name",
+    "mission_day",
+    "mission_phase",
+    "pitch_mean",
+    "pitch_std",
+    "energy_mean",
+    "speech_rate",
+    "jitter",
+    "shimmer",
+    "duration_hrs",
+    "fragmentation_idx",
+    "rem_ratio",
+    "sleep_efficiency",
+    "mean_latency_sec",
+    "latency_std",
+    "max_latency_sec",
+    "missed_prompts",
+    "sentiment_score",
+    "pronoun_i_ratio",
+    "emotional_word_ratio",
+    "vocabulary_complexity",
+    "log_word_count",
+    "negative_word_ratio",
+    "cognitive_load_score",
+    "psych_drift_score",
+    "health_index",
+    "risk_level",
+    "is_tqs_window",
+    "stress_raw"
+  ],
+  "data_source": "Synthetic \u2014 generated from NASA HI-SEAS & ISS research parameters"
+}
