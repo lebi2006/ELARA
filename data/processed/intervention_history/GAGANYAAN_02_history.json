@@ -40,5 +40,1258 @@
     "intervention_id": "DRIFT_003",
     "timestamp": "2026-03-13T10:41:18.630090",
     "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 71,
+    "condition": "SLEEP_DISRUPTION",
+    "intervention_id": "SLEEP_003",
+    "timestamp": "2026-03-13T14:13:56.222026",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 77,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:13:59.529705",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 83,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:02.568230",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 83,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:02.568230",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 83,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:02.568230",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 85,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:03.765685",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 88,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:05.319270",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 91,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:06.902500",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 94,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:08.660409",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 95,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:09.185547",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 95,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:09.185547",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 96,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:09.734577",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 97,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:10.255783",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 99,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:11.269336",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 104,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:14.167869",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 106,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:15.260877",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 108,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:16.300721",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 108,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:16.300721",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 108,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_001",
+    "timestamp": "2026-03-13T14:14:16.300721",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 109,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:16.839957",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 109,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:16.839957",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 109,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:16.839957",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 110,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:17.389120",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 110,
+    "condition": "SLEEP_DISRUPTION",
+    "intervention_id": "SLEEP_003",
+    "timestamp": "2026-03-13T14:14:17.389120",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 111,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:17.923044",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 111,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:17.923044",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 111,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:17.923044",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 112,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:18.450066",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 112,
+    "condition": "SLEEP_DISRUPTION",
+    "intervention_id": "SLEEP_001",
+    "timestamp": "2026-03-13T14:14:18.450066",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 113,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:18.993415",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 114,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:19.518327",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 115,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:20.047415",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 115,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:20.047415",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 115,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:20.047415",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 116,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:20.576439",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 116,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:20.576439",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 116,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:20.576439",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 117,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:21.172771",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 118,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:21.678510",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 118,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:21.678510",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 118,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:21.678510",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 119,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:22.211468",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 119,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:22.211468",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 119,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:22.211468",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 120,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:22.731107",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 120,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:22.731107",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 121,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:23.315008",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 121,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:23.315008",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 121,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_001",
+    "timestamp": "2026-03-13T14:14:23.315008",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 122,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:23.768630",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 122,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:23.768630",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 122,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:23.768630",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 123,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:24.312126",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 123,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:24.312126",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 123,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:24.312126",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 124,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:24.870394",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 124,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:24.870394",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 124,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:24.870394",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 125,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:25.400443",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 125,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:25.400443",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 125,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_001",
+    "timestamp": "2026-03-13T14:14:25.400443",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 126,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:25.926851",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 126,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:25.926851",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 126,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:25.926851",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 127,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:26.481541",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 127,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:26.481541",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 127,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_001",
+    "timestamp": "2026-03-13T14:14:26.481541",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 128,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:27.003334",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 128,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:27.003334",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 128,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:27.003334",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 129,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:27.575988",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 129,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:27.575988",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 129,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:27.575988",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 130,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:28.123392",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 130,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:28.123392",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 130,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:28.123392",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 131,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:28.699344",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 131,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:28.699344",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 131,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:28.699344",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 132,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:29.234943",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 132,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:29.234943",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 132,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:29.234943",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 133,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:29.746890",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 133,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:29.746890",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 133,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:29.746890",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 134,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T14:14:30.275264",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 134,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:30.275264",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 134,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:30.275264",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 135,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:30.841854",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 135,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:30.841854",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 135,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:30.841854",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 136,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:31.462008",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 136,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:31.462008",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 136,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:31.462008",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T14:14:32.038950",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:32.038950",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:32.038950",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 138,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:32.499921",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 138,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:32.499921",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 138,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:32.499921",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 139,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:33.043093",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 139,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:33.043093",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 139,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:33.043093",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 140,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T14:14:33.667522",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 140,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:33.667522",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 140,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:33.667522",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 141,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T14:14:34.282816",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 141,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:34.282816",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 141,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:34.282816",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 142,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T14:14:34.873046",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 142,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:34.873046",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 142,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:34.873046",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 143,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:35.476420",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 143,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:35.476420",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 143,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:35.476420",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 144,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:36.016928",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 144,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:36.016928",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 144,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:36.016928",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 145,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:36.539544",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 145,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:36.539544",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 145,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:36.539544",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 146,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T14:14:37.081264",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 146,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:37.081264",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 146,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:37.081264",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 147,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:37.573806",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 147,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:37.573806",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 147,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:37.573806",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 148,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T14:14:38.114612",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 148,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:38.114612",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 148,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:38.114612",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 149,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:38.649170",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 149,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:38.649170",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 149,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:38.649170",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 150,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_002",
+    "timestamp": "2026-03-13T14:14:39.156068",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 150,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:39.156068",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 150,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:39.156068",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 151,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:39.666918",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 151,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:39.666918",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 151,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:39.666918",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 152,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:40.190029",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 152,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:40.190029",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 152,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_001",
+    "timestamp": "2026-03-13T14:14:40.190029",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 153,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:40.699278",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 153,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:40.699278",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 153,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:40.699278",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 154,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:41.216035",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 154,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_001",
+    "timestamp": "2026-03-13T14:14:41.216035",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 154,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:41.216035",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 155,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:41.697794",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 155,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:41.697794",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 155,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:41.697794",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 156,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:42.260971",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 157,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:42.882323",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 157,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:42.882323",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 157,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_001",
+    "timestamp": "2026-03-13T14:14:42.882323",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 158,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:43.378113",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 158,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_002",
+    "timestamp": "2026-03-13T14:14:43.378113",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 158,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:43.378113",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 159,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:43.884011",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 160,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:44.491046",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 160,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_004",
+    "timestamp": "2026-03-13T14:14:44.491046",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 160,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_002",
+    "timestamp": "2026-03-13T14:14:44.491046",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 161,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:45.069569",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 163,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:46.045263",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 165,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:47.157904",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 166,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:47.733454",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 167,
+    "condition": "SLEEP_DISRUPTION",
+    "intervention_id": "SLEEP_001",
+    "timestamp": "2026-03-13T14:14:48.257338",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 168,
+    "condition": "SLEEP_DISRUPTION",
+    "intervention_id": "SLEEP_003",
+    "timestamp": "2026-03-13T14:14:48.855085",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 169,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:49.569575",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 170,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:50.370725",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 171,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:51.093437",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 172,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:51.768023",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 172,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T14:14:51.768023",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 172,
+    "condition": "TQS_PREVENTION",
+    "intervention_id": "TQS_003",
+    "timestamp": "2026-03-13T14:14:51.768023",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 173,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T14:14:52.393506",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 174,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:52.983007",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 176,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:54.109831",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 177,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_001",
+    "timestamp": "2026-03-13T14:14:54.706205",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 178,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_003",
+    "timestamp": "2026-03-13T14:14:55.194747",
+    "effectiveness": "PENDING"
   }
 ]

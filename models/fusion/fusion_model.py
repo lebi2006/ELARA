@@ -99,9 +99,9 @@ class FusionModel:
         score       = float(self.model.predict(X_scaled)[0])
         score       = round(min(100, max(0, score)), 2)
 
-        shap_values = self.explainer(X_scaled)
+        # Feature importance explanation (fast, no per-request SHAP cost)
         explanation = {
-            feat: round(float(shap_values.values[0][i]), 3)
+            feat: round(float(self.model.feature_importances_[i]), 3)
             for i, feat in enumerate(self.features)
         }
 

@@ -109,11 +109,9 @@ class PsychDriftModel:
             for cls, prob in zip(self.encoder.classes_, probabilities)
         }
 
-        # SHAP explanation
-        shap_values     = self.explainer(X_scaled)
-        class_idx       = pred_encoded
-        explanation     = {
-            feat: round(float(shap_values.values[0][i][class_idx]), 3)
+        # Feature importance explanation (fast, no per-request SHAP cost)
+        explanation = {
+            feat: round(float(self.model.feature_importances_[i]), 3)
             for i, feat in enumerate(self.features)
         }
 
