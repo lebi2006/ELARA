@@ -53,6 +53,7 @@ class PsychDriftModel:
         )
 
         X_train_scaled  = self.scaler.fit_transform(X_train)
+        self._background = X_train_scaled[:50]
         X_test_scaled   = self.scaler.transform(X_test)
 
         print("  Training Psychological Drift Model...")
@@ -134,19 +135,28 @@ class PsychDriftModel:
         MODEL_DIR.mkdir(parents=True, exist_ok=True)
         with open(MODEL_DIR / "psych_drift_model.pkl", "wb") as f:
             pickle.dump({
-                "model": self.model, "scaler": self.scaler,
-                "encoder": self.encoder, "features": self.features
+                "model"         : self.model,
+                "scaler"        : self.scaler,
+                "encoder"       : self.encoder,
+                "features"      : self.features,
+                "background"    : self._background
             }, f)
         print(f"  Saved: models/psych_drift/psych_drift_model.pkl")
 
     def load(self):
         with open(MODEL_DIR / "psych_drift_model.pkl", "rb") as f:
             data = pickle.load(f)
-        self.model      = data["model"]
-        self.scaler     = data["scaler"]
-        self.encoder    = data["encoder"]
-        self.features   = data["features"]
-        self.is_trained = True
+        self.model          = data["model"]
+        self.scaler         = data["scaler"]
+        self.encoder        = data["encoder"]
+        self.features       = data["features"]
+        self._background    = data["background"]
+        self.is_trained     = True
+        self.explainer      = shap.Explainer(
+            self.model,
+            self._background,
+            feature_names=self.features
+        )
 
 
 if __name__ == "__main__":

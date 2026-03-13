@@ -60,6 +60,7 @@ class CognitiveLoadModel:
 
         # Scale features
         X_train_scaled  = self.scaler.fit_transform(X_train)
+        self._background = X_train_scaled[:50]
         X_test_scaled   = self.scaler.transform(X_test)
 
         # Train model
@@ -140,17 +141,27 @@ class CognitiveLoadModel:
     def save(self):
         MODEL_DIR.mkdir(parents=True, exist_ok=True)
         with open(MODEL_DIR / "cognitive_load_model.pkl", "wb") as f:
-            pickle.dump({"model": self.model, "scaler": self.scaler,
-                         "features": self.features}, f)
+            pickle.dump({
+                "model"         : self.model,
+                "scaler"        : self.scaler,
+                "features"      : self.features,
+                "background"    : self._background
+            }, f)
         print(f"  Saved: models/cognitive_load/cognitive_load_model.pkl")
 
     def load(self):
         with open(MODEL_DIR / "cognitive_load_model.pkl", "rb") as f:
             data = pickle.load(f)
-        self.model      = data["model"]
-        self.scaler     = data["scaler"]
-        self.features   = data["features"]
-        self.is_trained = True
+        self.model          = data["model"]
+        self.scaler         = data["scaler"]
+        self.features       = data["features"]
+        self._background    = data["background"]
+        self.is_trained     = True
+        self.explainer      = shap.Explainer(
+            self.model.predict,
+            self._background,
+            feature_names=self.features
+        )
 
 
 if __name__ == "__main__":
