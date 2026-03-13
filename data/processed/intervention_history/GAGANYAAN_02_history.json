@@ -19,5 +19,26 @@
     "intervention_id": "DRIFT_003",
     "timestamp": "2026-03-13T10:34:01.300900",
     "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "CRITICAL_ALERT",
+    "intervention_id": "CRIT_001",
+    "timestamp": "2026-03-13T10:41:18.630090",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "COGNITIVE_OVERLOAD",
+    "intervention_id": "COG_002",
+    "timestamp": "2026-03-13T10:41:18.630090",
+    "effectiveness": "PENDING"
+  },
+  {
+    "mission_day": 137,
+    "condition": "PSYCHOLOGICAL_DRIFT",
+    "intervention_id": "DRIFT_003",
+    "timestamp": "2026-03-13T10:41:18.630090",
+    "effectiveness": "PENDING"
   }
 ]
